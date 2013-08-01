@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Provides UIkit"
+  summary: "A lightweight and modular front-end framework."
 });
 
 Package.on_use(function (api, where) {
