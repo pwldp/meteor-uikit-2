@@ -1,6 +1,6 @@
 {
   "name": "uikit",
-  "description": "Provides UIkit",
+  "description": "A lightweight and modular front-end framework.",
   "homepage": "https://github.com/qasz/meteor-uikit",
   "author": "Lukasz Sibielak <luke.sibielak@gmail.com>",
   "version": "1.0.0",
