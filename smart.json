@@ -3,7 +3,7 @@
   "description": "A lightweight and modular front-end framework.",
   "homepage": "https://github.com/pwldp/meteor-uikit-2",
   "author": "Dariusz Pawlak <pawlakdp@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "git": "https://github.com/pwldp/meteor-uikit-2.git",
   "packages": {
   }
