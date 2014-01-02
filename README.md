@@ -1,7 +1,7 @@
-meteor-uikit
+meteor-uikit-2
 ==================
-UIkit packaged for meteor
+UIkit 2.x packaged for meteor
 
 
 ### to install
-mrt add uikit
+mrt add uikit-2
